@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+
+    <persistence-unit name="PSGBD">
+        <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+        <class>main.AlbumsEntity</class>
+        <class>main.FavoritesEntity</class>
+        <class>main.FriendsEntity</class>
+        <class>main.MembersEntity</class>
+        <class>main.SongsEntity</class>
+        <properties>
+            <property name="javax.persistence.jdbc.url" value="jdbc:oracle:thin:@localhost:1521:xe"/>
+            <property name="javax.persistence.jdbc.driver" value="oracle.jdbc.OracleDriver"/>
+            <property name="javax.persistence.jdbc.user" value="system"/>
+            <property name="javax.persistence.jdbc.password" value="oracle"/>
+            <property name="eclipselink.allow-zero-id" value="true"/>
+        </properties>
+    </persistence-unit>
+</persistence>

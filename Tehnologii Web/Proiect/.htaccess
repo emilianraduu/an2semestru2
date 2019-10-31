@@ -1,0 +1,26 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteRule ^$ ./public/index.php [NC,L]
+RewriteRule ^login$ ./public/login.php [NC,L]
+RewriteRule ^profile$ ./public/profile.php [NC,L]
+RewriteRule ^formular$ ./public/formular.php [NC,L]
+RewriteRule ^home$ ./public/home.php [NC,L]
+RewriteRule ^register$ ./public/register.php [NC,L]
+RewriteRule ^verify$ ./public/verify.php [NC,L]
+RewriteRule ^lost$ ./public/lost.php [NC,L]
+RewriteRule ^upload$ ./control/profile-controller.php [NC,L]
+RewriteRule ^pet$ ./public/lost.php [NC,L]
+RewriteRule ^statistics$ ./public/statistics.php [NC,L]
+
+RewriteRule ^add/.+$ ./control/api/api.verify.php [NC,L]
+RewriteRule ^get/loc/.+$ ./control/api/api.get.php [NC,L]
+RewriteRule ^get/profile/.+$ ./control/api/get-profile.php [NC,L]
+RewriteRule ^get/pet/.+$ ./control/api/api.pet.php [NC,L]
+RewriteRule ^get/notifications/.+$ ./control/api/api.notif.php [NC,L]
+
+ErrorDocument 403 /forbidden.html
+ErrorDocument 404 /notfound.html
+ErrorDocument 500 /servererror.html
+
+Header set Access-Control-Allow-Origin *

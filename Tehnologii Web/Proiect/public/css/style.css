@@ -1,0 +1,1047 @@
+/* Body */
+
+body {
+    margin: 0;
+    flex-direction: column;
+    font-family: Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    width: 100%;
+    min-height: 100vh;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+/* Header */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1em;
+}
+
+header a {
+    text-decoration: none;
+}
+
+.flex div {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+/* Logo */
+
+.logo h2 {
+    text-transform: uppercase;
+    color: #007377;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.logo h2:hover {
+    color: #ffbf00;
+    transform: scale(0.95);
+}
+
+.links .selection {
+    display: inline-block;
+}
+
+
+/* Link-uri */
+
+.selection a {
+    color: #00979c;
+    font-size: 13px;
+    letter-spacing: 2px;
+    text-transform: lowercase;
+}
+
+.selection {
+    color: #00979c;
+}
+
+.selection .profile-img {
+    display: inline-block;
+}
+
+.selection {
+    cursor: pointer;
+}
+
+.selection a,
+p,
+.fab,
+.fa,
+.fas {
+    margin: 3px 3px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.selection .fas {
+    color: #00979c;
+}
+
+footer .selection .fas {
+    color: white;
+}
+
+.selection:hover .profile-img {
+    border-color: #ffbf00;
+}
+
+.selection:hover .fa {
+    color: #ffbf00;
+}
+
+.selection:hover .fab,
+.selection:hover .fas,
+.selection:hover a {
+    color: #ffbf00;
+}
+
+.white-links a {
+    color: white;
+}
+
+.white-links:hover a {
+    color: whitesmoke;
+}
+
+.hidden {
+    display: none !important;
+}
+
+
+/* Tipuri de containere */
+
+.container {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+    padding: 4em 4em;
+    margin: 2em 0;
+    flex-flow: row;
+    flex-wrap: wrap;
+}
+
+.cyan {
+    background-color: #00979c;
+    color: white;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.black {
+    background-color: black;
+}
+
+.orange {
+    background-color: #ffbf00;
+    color: white;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+
+/* Content din container */
+
+.content {
+    text-align: center;
+}
+
+.content h2 {
+    display: block;
+    margin: 1em 0;
+}
+
+.content p {
+    display: block;
+}
+
+.content a {
+    text-decoration: none;
+}
+
+.content ul {
+    display: flex;
+    align-items: center;
+}
+
+.content li {
+    display: inline-block;
+    margin: 0 2em;
+    text-align: center;
+}
+
+
+/* Pentru skewing */
+
+.skewUp {
+    transform: skewY(-1deg);
+}
+
+.skewDown {
+    transform: skewY(1deg);
+}
+
+
+/* Imagine de profil din navbar */
+
+.profile-img {
+    width: 10px;
+    height: 10px;
+    margin: 0 5px;
+    background: url("../img/avatars/default.jpg");
+    background-size: cover !important;
+    border-radius: 100%;
+    border: solid #00979c 1px;
+}
+
+.multiple-choice {
+    display: flex;
+}
+
+
+/* Pentru form */
+
+form {
+    max-width: 500px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-content: center;
+}
+
+form input,
+form select,
+form textarea,
+form radio {
+    border-radius: 5px;
+    border: 0;
+    height: 25px;
+    width: 100%;
+    margin: 1em;
+    box-sizing: border-box;
+}
+
+form textarea {
+    height: 100px;
+}
+
+.under label {
+    display: block;
+}
+#notifs {
+    position: relative;
+}
+.bulina {
+    content: '';
+    width: 10px;
+    height: 10px;
+    top:0;
+    right:0;
+    position: absolute;
+    background: red;
+    border-radius: 100%;
+}
+
+.avatar_choose {
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+    justify-self: center;
+    background-size: contain;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 100%;
+    margin-top: 30px;
+    border: 3px #ffbf00 solid;
+    transition: 0.5s ease-in-out;
+}
+
+.avatar_choose:hover {
+    transform: scale(1.1);
+}
+
+#hide_img {
+    display: none;
+}
+
+form label {
+    margin: 3px;
+}
+
+.banner {
+    background-color: #E2DDDC;
+    text-align: center;
+    margin: 1em;
+    border-radius: 5px;
+}
+
+.banner p {
+    padding: 1em;
+    text-decoration: none;
+}
+
+.banner a {
+    text-decoration: none;
+    color: #006064;
+}
+
+.space .white-links {
+    margin-top: 12px!important;
+}
+
+
+/* form button {
+    max-width: 50%;
+} */
+
+
+/* Motto */
+
+.motto {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.motto .left-motto {
+    /* display:flex; */
+    text-align: left;
+}
+
+.left-motto h2 {
+    display: block;
+    font-size: 40px;
+}
+
+.motto img {
+    width: 50%;
+    height: 50%;
+}
+
+
+/* Mapa */
+
+#mapid {
+    height: 500px;
+    min-width: 300px;
+    border-radius: 15px;
+    margin: auto;
+    z-index: 1;
+    margin: 10px;
+}
+
+#mapid_hide {
+    max-width: 0px;
+    display: none;
+    /* border-radius: 15px; */
+    /* margin: auto; */
+    z-index: 1;
+    /* margin: 10px; */
+}
+
+.spaced {
+    margin-left: 100px !important;
+}
+
+
+/* Footer */
+
+footer {
+    margin-bottom: 0 !important;
+}
+
+footer .selection a {
+    color: white;
+}
+
+footer p {
+    color: white;
+    font-size: 13px;
+    letter-spacing: 2px;
+    text-transform: lowercase;
+}
+
+footer .content {
+    display: flex;
+    align-items: center;
+}
+
+#center {
+    display: flex;
+    flex-flow: row;
+}
+
+footer .content .fab,
+.fas {
+    color: white;
+}
+
+
+/* Butoane */
+
+button {
+    margin: auto;
+    padding: 1em 2em;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #ffbf00;
+    border: none;
+    border-radius: 50px 0;
+    cursor: pointer;
+    transition: .3s all ease;
+    letter-spacing: .1rem;
+    font-size: .85rem;
+}
+
+.info {
+    justify-content: center;
+    display: flex;
+    flex-flow: row;
+}
+
+.space {
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+
+#lost-map {
+    width: 300px;
+    height: 500px;
+    margin: auto;
+    margin-left: 100px;
+}
+
+.invbut {
+    background-color: #00979c;
+}
+
+.small {
+    padding: 0;
+    background: none;
+    color: #00979c;
+}
+
+.invbut:hover {
+    background-color: #007377;
+}
+
+button:hover {
+    background-color: #e2b01a;
+}
+
+.small:hover {
+    padding: 0;
+    background: none;
+}
+
+
+/* Card pentru animale pe pagina principala */
+
+.primary {
+    position: relative;
+    color: white;
+    transition: all .5s ease-in-out;
+    width: 300px;
+    height: 500px;
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border: 5px #006064 solid;
+}
+
+.first {
+    font-size: 30px;
+    margin: 0px !important;
+    position: relative;
+    right: 20px;
+}
+
+.second {
+    font-size: 40px;
+    margin: 0 !important;
+    position: relative;
+    left: 50px;
+}
+
+.primary img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    overflow: hidden;
+}
+
+.primary .top-btns {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    margin: 8px;
+    background: rgba(0, 0, 0, 0.411);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.primary .bottom-btns {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    margin: 8px;
+    background: rgba(0, 0, 0, 0.411);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.bottom-btns p,
+i {
+    margin: 0;
+    display: inline-block;
+}
+
+.top-btns p,
+i {
+    display: inline-block;
+}
+
+.top-btns p {
+    margin: 0;
+}
+
+.primary .user-things {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    margin: 8px;
+    background: rgba(0, 0, 0, 0.411);
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.card {
+    display: inline-block;
+    cursor: pointer;
+    min-width: 250px;
+    min-height: 300px;
+    max-width: 300px;
+    max-height: 500px;
+    margin: 10px 10px;
+}
+
+.primary:hover,
+ :focus {
+    transform: scale(0.99, 0.99);
+    filter: contrast(90%);
+    border-color: #ffbf00;
+}
+
+.user-things p {
+    color: white;
+}
+
+.user-things img {
+    object-fit: contain;
+    object-position: center;
+}
+
+.user-things p,
+img {
+    margin: 0;
+    display: block;
+}
+
+.primary .photo-card {
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+}
+
+.photo-card img {
+    width: 100%;
+    height: 100%;
+    border: 2px solid #00979c;
+    border-radius: 100%;
+}
+
+.details {
+    text-align: left;
+    margin: 10px;
+}
+
+.details .precision {
+    font-size: 13px;
+    max-width: 300px;
+}
+
+.details .selections {
+    display: flex;
+    /* background: blue; */
+}
+
+.details .flex-end {
+    display: flex;
+    align-items: flex-end;
+}
+
+.details .under {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    align-content: center;
+    margin: 0;
+}
+
+.details .name {
+    font-size: 30px;
+    color: #006064;
+    margin: 0;
+}
+
+.details .name-label {
+    margin: 0;
+    color: #007377;
+    font-size: 10px;
+}
+
+.details .details-label {
+    font-size: 10px;
+    margin: 0;
+}
+
+#drop-content {
+    z-index: 99;
+    -webkit-box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2);
+    background-color: #E2DDDC;
+    position: absolute;
+    max-height: 200px;
+    max-width: 300px;
+    overflow: hidden;
+    overflow-y: auto;
+    border-radius: 12px;
+}
+
+.found {
+    display: flex;
+    padding: 5px 10px;
+    background: #E2DDDC;
+    border-radius: 10px;
+    margin: 10px;
+    justify-content: space-between;
+}
+
+.found:hover {
+    background: #E2DDEC;
+}
+
+.found a {
+    display: flex;
+}
+
+.found p {
+    font-size: 12px;
+    align-self: center;
+    font-weight: bold;
+    color: #006064;
+}
+
+.found a img {
+    width: 20px;
+    object-fit: contain;
+    border-radius: 100%;
+}
+
+#drop-content form{
+    flex-flow: initial;
+}
+#drop-content form input {
+    cursor: pointer;
+    object-fit: contain;
+    align-self: center;
+    z-index: inherit;
+    background: #007377;
+    color: black;
+    margin: 10px;
+    border-radius: 12px;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    text-decoration: none;
+    /* padding: 10px 36px;
+    margin-top: 2px; */
+}
+
+.details .profile-pet {
+    text-decoration: none;
+    color: #007377;
+    display: flex;
+    margin: 0;
+}
+
+.profile-pet h2 {
+    font-size: 12px;
+    display: flex;
+    margin: 0;
+    margin-left: 3px;
+    align-self: center;
+}
+
+.profile-pet img {
+    max-width: 20px;
+    max-height: 20px;
+    border-radius: 100%;
+    object-fit: cover;
+    object-position: center;
+    align-self: center;
+    border: 1px solid #e2b01a;
+}
+
+.details .details-cont {
+    margin: 0px;
+    font-size: 15px;
+}
+
+.details .reward {
+    font-size: 12px;
+    margin: 0;
+}
+
+.details .species {
+    font-size: 12px;
+    color: #007377;
+    margin: 0;
+}
+
+.details .breed {
+    font-size: 16px;
+    color: #007377;
+    text-transform: capitalize;
+    margin: 0;
+}
+
+.user-things p {
+    box-sizing: border-box;
+    padding: 3px;
+}
+
+.show {
+    right: 0px !important;
+}
+
+
+/* Pagina de profil */
+
+.profile-page {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.profile-page .left {
+    display: block;
+    flex-direction: column;
+    padding: 2em;
+    margin: 2em 4em;
+    align-content: center;
+    max-width: 300px;
+    width: 200px;
+    max-height: 250px;
+    background-color: #E2DDDC;
+    border-radius: 30px;
+    justify-content: center;
+}
+
+.left .selection a {
+    color: black;
+}
+
+.left h2 {
+    text-align: center;
+}
+
+.left .selection {
+    align-content: center;
+    justify-content: center;
+    display: flex;
+}
+
+.left .selection i {
+    color: black !important;
+}
+
+.left .selection:hover a,
+.left .selection:hover i {
+    color: #007377 !important;
+}
+
+.left .invbut {
+    margin-top: 3em;
+}
+.statistics {
+    display:flex;
+    width: 100%;
+    padding: 0;
+    background: #E2DDDC;
+}
+.content .flex button{
+    display: block;
+}
+
+.statistics {
+    display: flex;
+    width: 100%;
+    padding: 0;
+    background: #E2DDDC;
+}
+
+.content .flex button {
+    display: block;
+}
+
+#avatar {
+    width: 100px;
+    border-radius: 100%;
+    background-color: #E2DDDC;
+    border: 3px solid #ffbf00;
+    cursor: pointer;
+    object-fit: cover;
+    transition: 0.2s all ease-in-out;
+    margin: auto auto;
+    height: 100px;
+}
+
+#avatar:hover {
+    transform: scale(1.1);
+}
+
+.change {
+    display: block;
+    margin: auto;
+}
+
+.hide {
+    position: absolute;
+    bottom: 0;
+}
+
+.profile-page .right {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    padding: 4em 4em;
+    margin: 2em 0;
+    flex-flow: row;
+    flex-wrap: wrap;
+    display: block;
+    right: 0;
+    padding: 1em 3em;
+}
+
+.lost-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+
+/* 
+.lost-row .lost-pet {
+    width: 100px;
+    /* margin: auto; */
+
+
+/* margin: 1em;
+    display: flex;
+    flex-direction: row;
+    transition: 0.3s all ease;
+    height: 100px;
+    border-radius: 100px;
+    border: #006064 3px solid;
+    background-color: grey; */
+
+
+/* }  */
+
+.lost-pet a {
+    width: 100px;
+    /* margin: auto; */
+    margin: 1em;
+    display: flex;
+    flex-direction: row;
+    transition: 0.3s all ease;
+    height: 100px;
+    border-radius: 100px;
+    border: #006064 3px solid;
+    background-color: grey;
+}
+
+.lost-pet img {
+    max-width: 100%;
+    border-radius: 100%;
+    object-fit: cover;
+    object-position: center;
+    /* max-height: 100%; */
+}
+
+.lost-pet a:hover {
+    transform: scale(1.2, 1.2);
+}
+
+.lost-pet .edit {
+    display: flex;
+    position: absolute;
+    bottom: 10%;
+    left: 45%;
+}
+
+.right h2 {
+    font-size: 50px;
+    width: 100%;
+    text-align: right;
+}
+
+@media only screen and (max-width: 600px) {
+    .content {
+        flex-flow: column;
+    }
+    #center {
+        display: flex;
+        flex-flow: column;
+    }
+    #drop-content {
+        width: 100%;
+        position: relative;
+    }
+    .spaced {
+        margin-left: 0 !important;
+        margin-top: 2em!important;
+    }
+    .profile-page {
+        justify-content: center;
+        display: block;
+        align-content: center;
+    }
+    .profile-page .left {
+        margin: auto;
+        max-width: 300px;
+        width: 300px;
+    }
+    .right h2 {
+        text-align: center;
+    }
+    .left-motto {
+        margin: auto;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-flow: column;
+    }
+    .left-motto h2 {
+        margin: 0;
+        margin-bottom: 1em;
+    }
+    .lost-row {
+        justify-content: center;
+        align-content: center;
+    }
+    .content li {
+        margin: 1em 0;
+    }
+    .content ul {
+        display: block;
+        align-items: center;
+    }
+    .card {
+        margin: 5px 10px;
+    }
+    .motto {
+        display: block;
+    }
+    .motto img {
+        margin: auto auto;
+        width: 70%;
+        height: 70%;
+    }
+    .motto p {
+        text-align: center;
+        display: block;
+    }
+    .hidden {
+        display: block !important;
+    }
+    body {
+        overflow-x: hidden;
+    }
+    .links {
+        position: absolute;
+        top: 0;
+        right: 100%;
+        z-index: 1;
+        height: 100%;
+        transition: all .5s ease-in-out;
+        position: fixed;
+        background: #006064;
+        width: 100%;
+    }
+    .links .selection {
+        display: block;
+        padding: 1em;
+        width: 100%;
+        box-sizing: border-box;
+        background-color: #00979c;
+    }
+    .profile-img {
+        border-color: white;
+        width: 25px;
+        height: 25px;
+    }
+    .links .selection a,
+    .links .selection .fa,
+    .links .selection .fas {
+        color: white;
+        font-size: 25px;
+    }
+    .selection .fa {
+        font-size: 25px;
+    }
+    .links .selection:hover a,
+    .links .selection:hover .fa,
+    .links .selection:hover .fas {
+        color: #ffbf00;
+    }
+    .links .selection:hover {
+        background-color: #007377;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .content {
+        flex-flow: column;
+    }
+    .content li {
+        margin: 1em 0;
+    }
+    .content ul {
+        display: block;
+        align-items: center;
+    }
+}
