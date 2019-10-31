@@ -1,0 +1,2311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_201" class="java.beans.XMLDecoder">
+ <array class="java.awt.Component" length="55">
+  <void index="0">
+   <object class="javax.swing.JPanel">
+    <void method="add">
+     <object class="javax.swing.JButton">
+      <string>Button</string>
+     </object>
+    </void>
+    <void method="add">
+     <object class="javax.swing.JCheckBox"/>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="javax.swing.JPanel"/>
+  </void>
+  <void index="2">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle0">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle0"/>
+        <int>470</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle0"/>
+        <int>171</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle0"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle0"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="3">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle1">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle1"/>
+        <int>424</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle1"/>
+        <int>55</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle1"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle1"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="4">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle2">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle2"/>
+        <int>416</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle2"/>
+        <int>130</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle2"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle2"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="5">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle3">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle3"/>
+        <int>762</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle3"/>
+        <int>316</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle3"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle3"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="6">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle4">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle4"/>
+        <int>567</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle4"/>
+        <int>379</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle4"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle4"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="7">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle5">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle5"/>
+        <int>553</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle5"/>
+        <int>274</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle5"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle5"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="8">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle6">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle6"/>
+        <int>549</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle6"/>
+        <int>313</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle6"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle6"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="9">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle7">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle7"/>
+        <int>193</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle7"/>
+        <int>272</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle7"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle7"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="10">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle8">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle8"/>
+        <int>772</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle8"/>
+        <int>494</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle8"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle8"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="11">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle9">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle9"/>
+        <int>519</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle9"/>
+        <int>325</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle9"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle9"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="12">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle10">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle10"/>
+        <int>666</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle10"/>
+        <int>388</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle10"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle10"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="13">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle11">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle11"/>
+        <int>727</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle11"/>
+        <int>546</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle11"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle11"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="14">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle12">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle12"/>
+        <int>257</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle12"/>
+        <int>545</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle12"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle12"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="15">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle13">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle13"/>
+        <int>301</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle13"/>
+        <int>275</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle13"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle13"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="16">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle14">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle14"/>
+        <int>412</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle14"/>
+        <int>555</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle14"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle14"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="17">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle15">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle15"/>
+        <int>385</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle15"/>
+        <int>530</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle15"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle15"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="18">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle16">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle16"/>
+        <int>486</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle16"/>
+        <int>8</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle16"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle16"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="19">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle17">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle17"/>
+        <int>287</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle17"/>
+        <int>20</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle17"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle17"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="20">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle18">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle18"/>
+        <int>407</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle18"/>
+        <int>395</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle18"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle18"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="21">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle19">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle19"/>
+        <int>49</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle19"/>
+        <int>421</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle19"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle19"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="22">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle20">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle20"/>
+        <int>264</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle20"/>
+        <int>419</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle20"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle20"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="23">
+   <object class="javax.swing.JButton">
+    <string>andrei</string>
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle21">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle21"/>
+        <int>5</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle21"/>
+        <int>74</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle21"/>
+        <int>83</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle21"/>
+        <int>29</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="24">
+   <object class="javax.swing.JCheckBox" id="JCheckBox0">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle22">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle22"/>
+        <int>325</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle22"/>
+        <int>20</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle22"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle22"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JCheckBox</string>
+    </void>
+   </object>
+  </void>
+  <void index="25">
+   <object class="javax.swing.JCheckBox" id="JCheckBox1">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle23">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle23"/>
+        <int>574</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle23"/>
+        <int>423</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle23"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle23"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JCheckBox</string>
+    </void>
+   </object>
+  </void>
+  <void index="26">
+   <object class="javax.swing.JCheckBox" id="JCheckBox2">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle24">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle24"/>
+        <int>56</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle24"/>
+        <int>462</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle24"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle24"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JCheckBox</string>
+    </void>
+   </object>
+  </void>
+  <void index="27">
+   <object class="javax.swing.JCheckBox" id="JCheckBox3">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle25">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle25"/>
+        <int>468</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle25"/>
+        <int>333</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle25"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle25"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JCheckBox</string>
+    </void>
+   </object>
+  </void>
+  <void index="28">
+   <object class="javax.swing.JCheckBox" id="JCheckBox4">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle26">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle26"/>
+        <int>506</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle26"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle26"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JCheckBox</string>
+    </void>
+   </object>
+  </void>
+  <void index="29">
+   <object class="javax.swing.JCheckBox" id="JCheckBox5">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle27">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle27"/>
+        <int>623</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle27"/>
+        <int>189</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle27"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle27"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JCheckBox</string>
+    </void>
+   </object>
+  </void>
+  <void index="30">
+   <object class="javax.swing.JSpinner">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle28">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle28"/>
+        <int>360</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle28"/>
+        <int>362</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle28"/>
+        <int>33</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle28"/>
+        <int>26</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JSpinner</string>
+    </void>
+   </object>
+  </void>
+  <void index="31">
+   <object class="javax.swing.JSpinner">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle29">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle29"/>
+        <int>241</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle29"/>
+        <int>371</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle29"/>
+        <int>33</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle29"/>
+        <int>26</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JSpinner</string>
+    </void>
+   </object>
+  </void>
+  <void index="32">
+   <object class="javax.swing.JSpinner">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle30">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle30"/>
+        <int>529</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle30"/>
+        <int>575</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle30"/>
+        <int>33</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle30"/>
+        <int>26</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JSpinner</string>
+    </void>
+   </object>
+  </void>
+  <void index="33">
+   <object class="javax.swing.JSpinner">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle31">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle31"/>
+        <int>499</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle31"/>
+        <int>557</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle31"/>
+        <int>33</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle31"/>
+        <int>26</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JSpinner</string>
+    </void>
+   </object>
+  </void>
+  <void index="34">
+   <object class="javax.swing.JSpinner">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle32">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle32"/>
+        <int>68</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle32"/>
+        <int>491</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle32"/>
+        <int>33</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle32"/>
+        <int>26</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JSpinner</string>
+    </void>
+   </object>
+  </void>
+  <void index="35">
+   <object class="javax.swing.JSpinner">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle33">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle33"/>
+        <int>216</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle33"/>
+        <int>142</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle33"/>
+        <int>33</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle33"/>
+        <int>26</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JSpinner</string>
+    </void>
+   </object>
+  </void>
+  <void index="36">
+   <object class="javax.swing.JSpinner">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle34">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle34"/>
+        <int>640</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle34"/>
+        <int>81</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle34"/>
+        <int>33</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle34"/>
+        <int>26</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JSpinner</string>
+    </void>
+   </object>
+  </void>
+  <void index="37">
+   <object class="javax.swing.JSpinner">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle35">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle35"/>
+        <int>305</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle35"/>
+        <int>458</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle35"/>
+        <int>33</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle35"/>
+        <int>26</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JSpinner</string>
+    </void>
+   </object>
+  </void>
+  <void index="38">
+   <object class="javax.swing.JSpinner">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle36">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle36"/>
+        <int>354</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle36"/>
+        <int>338</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle36"/>
+        <int>33</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle36"/>
+        <int>26</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JSpinner</string>
+    </void>
+   </object>
+  </void>
+  <void index="39">
+   <object class="javax.swing.JSpinner">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle37">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle37"/>
+        <int>370</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle37"/>
+        <int>425</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle37"/>
+        <int>33</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle37"/>
+        <int>26</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JSpinner</string>
+    </void>
+   </object>
+  </void>
+  <void index="40">
+   <object class="javax.swing.JSpinner">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle38">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle38"/>
+        <int>660</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle38"/>
+        <int>547</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle38"/>
+        <int>33</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle38"/>
+        <int>26</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JSpinner</string>
+    </void>
+   </object>
+  </void>
+  <void index="41">
+   <object class="javax.swing.JSpinner">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle39">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle39"/>
+        <int>73</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle39"/>
+        <int>234</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle39"/>
+        <int>33</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle39"/>
+        <int>26</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JSpinner</string>
+    </void>
+   </object>
+  </void>
+  <void index="42">
+   <object class="javax.swing.JRadioButton" id="JRadioButton0">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle40">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle40"/>
+        <int>769</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle40"/>
+        <int>347</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle40"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle40"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JRadioButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="43">
+   <object class="javax.swing.JRadioButton" id="JRadioButton1">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle41">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle41"/>
+        <int>129</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle41"/>
+        <int>164</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle41"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle41"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JRadioButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="44">
+   <object class="javax.swing.JRadioButton" id="JRadioButton2">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle42">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle42"/>
+        <int>211</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle42"/>
+        <int>392</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle42"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle42"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JRadioButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="45">
+   <object class="javax.swing.JRadioButton" id="JRadioButton3">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle43">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle43"/>
+        <int>209</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle43"/>
+        <int>283</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle43"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle43"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JRadioButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="46">
+   <object class="javax.swing.JRadioButton" id="JRadioButton4">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle44">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle44"/>
+        <int>114</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle44"/>
+        <int>372</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle44"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle44"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JRadioButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="47">
+   <object class="javax.swing.JRadioButton" id="JRadioButton5">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle45">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle45"/>
+        <int>20</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle45"/>
+        <int>220</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle45"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle45"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JRadioButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="48">
+   <object class="javax.swing.JRadioButton" id="JRadioButton6">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle46">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle46"/>
+        <int>142</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle46"/>
+        <int>559</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle46"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle46"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JRadioButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="49">
+   <object class="javax.swing.JRadioButton" id="JRadioButton7">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle47">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle47"/>
+        <int>251</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle47"/>
+        <int>40</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle47"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle47"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JRadioButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="50">
+   <object class="javax.swing.JRadioButton" id="JRadioButton8">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle48">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle48"/>
+        <int>773</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle48"/>
+        <int>241</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle48"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle48"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JRadioButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="51">
+   <object class="javax.swing.JRadioButton" id="JRadioButton9">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle49">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle49"/>
+        <int>395</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle49"/>
+        <int>496</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle49"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle49"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JRadioButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="52">
+   <object class="javax.swing.JRadioButton" id="JRadioButton10">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle50">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle50"/>
+        <int>77</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle50"/>
+        <int>317</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle50"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle50"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JRadioButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="53">
+   <object class="javax.swing.JRadioButton" id="JRadioButton11">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle51">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle51"/>
+        <int>793</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle51"/>
+        <int>335</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle51"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle51"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JRadioButton</string>
+    </void>
+   </object>
+  </void>
+  <void index="54">
+   <object class="javax.swing.JRadioButton" id="JRadioButton12">
+    <void property="bounds">
+     <object class="java.awt.Rectangle" id="Rectangle52">
+      <void class="java.awt.Rectangle" method="getField">
+       <string>x</string>
+       <void method="set">
+        <object idref="Rectangle52"/>
+        <int>624</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>y</string>
+       <void method="set">
+        <object idref="Rectangle52"/>
+        <int>593</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>width</string>
+       <void method="set">
+        <object idref="Rectangle52"/>
+        <int>71</int>
+       </void>
+      </void>
+      <void class="java.awt.Rectangle" method="getField">
+       <string>height</string>
+       <void method="set">
+        <object idref="Rectangle52"/>
+        <int>23</int>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="actionCommand">
+     <string>andrei</string>
+    </void>
+    <void property="label">
+     <string>andrei</string>
+    </void>
+    <void property="model">
+     <void property="actionCommand">
+      <null/>
+     </void>
+    </void>
+    <void property="toolTipText">
+     <string>javax.swing.JRadioButton</string>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>
